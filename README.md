@@ -1,1 +1,1 @@
-# Camera-Electron
+Electron项目初始化
